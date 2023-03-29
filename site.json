@@ -6,12 +6,12 @@
     "email": "ashton.sprunger@gmail.com"
   },
   "social": {
-    "github": "kamranahmedse",
-    "medium": "kamranahmedse",
+    "github": "ashtonsprunger",
+    "medium": "ashtonsprunger",
     "twitter": "kamranahmedse"
   },
   "newsletter": {
-    "showTwitterBanner": true,
+    "showTwitterBanner": false,
     "currentCount": "2,000",
     "revueUsername": "roadmapsh"
   },

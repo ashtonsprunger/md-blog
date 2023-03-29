@@ -1,7 +1,7 @@
 ---
 title: Test Article
 date: 2023-03-29
-permalink: /blog/2023/03/29/test/
+permalink: md-blog/blog/2023/03/29/test/
 ---
 
 Everybody needs to chase the perfection. No one is perfect; anyone who thinks they are, are doomed to crumble. Monotony is dangerous; even the stationary water, if left stationary for a while, starts to stink. If one does not face challenges for a while, tries not to get out of their comfort zone, keep doing what they are used to doing, repel the change and do not try to get better; same happens to them.
