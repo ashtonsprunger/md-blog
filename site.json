@@ -17,7 +17,7 @@
   },
   "seo": {
     "title": "Ashton Sprunger",
-    "description": "Blog of a Software Engineer",
+    "description": "Blog of a Software Developer",
     "author": "Ashton Sprunger",
     "keywords": [
       "blog",
@@ -25,5 +25,5 @@
       "engineering blog"
     ]
   },
-  "cname": "kamranahmed.info"
+  "cname": "ashtonsprunger.github.io/md-blog"
 }
